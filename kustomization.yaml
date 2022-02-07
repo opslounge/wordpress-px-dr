@@ -1,6 +1,6 @@
 secretGenerator:
 - name: mysql-pass
-  namespace: migrationnamespace
+  namespace: mgn
   literals:
   - password=password
 resources:
